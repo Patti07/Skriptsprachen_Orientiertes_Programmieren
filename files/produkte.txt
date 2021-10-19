@@ -1,0 +1,3 @@
+Anzahl: 35, Einzelpreis: 7.42
+Anzahl: 2, Einzelpreis: 6.14
+Anzahl: 4, Einzelpreis: 111.78
